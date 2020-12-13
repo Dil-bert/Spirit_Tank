@@ -1,0 +1,111 @@
+<RCC>
+  <qresource prefix="images">
+    <file>images/CropTopST Blue words.png</file>
+    <file>images/CropTopST Blue words.xcf</file>
+    <file>images/006-link.png</file>
+    <file>images/004-home.png</file>
+    <file>images/002-menu.png</file>
+    <file>images/003-show.png</file>
+    <file>images/005-layers.png</file>
+    <file>images/008-notifications.png</file>
+    <file>images/007-share.png</file>
+    <file>images/001-toggle.png</file>
+    <file>images/019-rec.png</file>
+    <file>images/011-volume.png</file>
+    <file>images/025-laptop.png</file>
+    <file>images/016-user.png</file>
+    <file>images/015-wireless.png</file>
+    <file>images/010-microphone.png</file>
+    <file>images/009-power button.png</file>
+    <file>images/021-support.png</file>
+    <file>images/020-brightness.png</file>
+    <file>images/013-close.png</file>
+    <file>images/018-video camera.png</file>
+    <file>images/012-resize.png</file>
+    <file>images/024-desktop.png</file>
+    <file>images/022-exit.png</file>
+    <file>images/014-pencil.png</file>
+    <file>images/026-smartphone.png</file>
+    <file>images/023-battery status.png</file>
+    <file>images/017-camera.png</file>
+    <file>images/050-calendar.png</file>
+    <file>images/030-inbox.png</file>
+    <file>images/028-bookmark.png</file>
+    <file>images/027-favourite.png</file>
+    <file>images/044-document.png</file>
+    <file>images/041-copy.png</file>
+    <file>images/036-location.png</file>
+    <file>images/032-email.png</file>
+    <file>images/031-email.png</file>
+    <file>images/029-flag.png</file>
+    <file>images/046-paperclip.png</file>
+    <file>images/042-clipboard.png</file>
+    <file>images/035-new window.png</file>
+    <file>images/049-clock.png</file>
+    <file>images/040-security.png</file>
+    <file>images/033-send.png</file>
+    <file>images/047-push pin.png</file>
+    <file>images/043-folder.png</file>
+    <file>images/038-trash bin.png</file>
+    <file>images/048-chat bubble.png</file>
+    <file>images/045-image.png</file>
+    <file>images/039-padlock.png</file>
+    <file>images/034-settings.png</file>
+    <file>images/001-world.png</file>
+    <file>images/002-cctv.png</file>
+    <file>images/004-walkie talkie.png</file>
+    <file>images/003-morse code.png</file>
+    <file>images/009-television.png</file>
+    <file>images/008-agreement.png</file>
+    <file>images/007-microphone.png</file>
+    <file>images/011-antenna.png</file>
+    <file>images/010-PDA.png</file>
+    <file>images/006-smartphone.png</file>
+    <file>images/005-telephone.png</file>
+    <file>images/012-browser.png</file>
+    <file>images/014-computer mouse.png</file>
+    <file>images/013-connectivity.png</file>
+    <file>images/015-dialogue.png</file>
+    <file>images/017-microphone.png</file>
+    <file>images/016-pen drive.png</file>
+    <file>images/022-radio.png</file>
+    <file>images/021-newspaper.png</file>
+    <file>images/020-video camera.png</file>
+    <file>images/019-laptop.png</file>
+    <file>images/018-letter.png</file>
+    <file>images/025-letter.png</file>
+    <file>images/024-letters.png</file>
+    <file>images/023-mailbox.png</file>
+    <file>images/028-phone book.png</file>
+    <file>images/027-satellite.png</file>
+    <file>images/026-languages.png</file>
+    <file>images/029-computer.png</file>
+    <file>images/037-search.png</file>
+    <file>images/036-picture.png</file>
+    <file>images/035-megaphone.png</file>
+    <file>images/034-smartphone.png</file>
+    <file>images/033-antenna.png</file>
+    <file>images/032-folder.png</file>
+    <file>images/031-location.png</file>
+    <file>images/030-smartwatch.png</file>
+    <file>images/039-headphones.png</file>
+    <file>images/038-antenna.png</file>
+    <file>images/045-ebook.png</file>
+    <file>images/044-share.png</file>
+    <file>images/043-telephone.png</file>
+    <file>images/042-keyboard.png</file>
+    <file>images/041-calendar.png</file>
+    <file>images/040-sim card.png</file>
+    <file>images/048-cloud.png</file>
+    <file>images/047-chat bubble.png</file>
+    <file>images/046-webcam.png</file>
+    <file>images/050-group.png</file>
+    <file>images/049-wifi.png</file>
+    <file>images/ST_v4 icon transparent.png</file>
+    <file>images/ST_v4 icon transparent(1).png</file>
+    <file>images/ST_v4 icon transparent small.png</file>
+    <file>images/ST v3.png</file>
+    <file>images/ST Blue words.png</file>
+    <file>images/ST Green words.png</file>
+  </qresource>
+</RCC>
